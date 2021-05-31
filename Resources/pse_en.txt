@@ -1,0 +1,944 @@
+1
+H
+Hydrogen
+-259,16
+-252,879
+1,008
+explosive gas, lightest element
+90% of atoms in the universe, sun and stars, H2O, life's organic molecules
+2
+He
+Helium
+-273,15
+-268,928
+4,00
+inert gas, second-lightest element
+nuclear fusion in sun and stars, balloons, lasers, supercold refrigerant
+3
+Li
+Lithium
+180,50
+1330
+6,94
+lightest metal, soft, reactive
+lightweight aluminum alloys, batteries, impact-resistant ceramic cookware (Corningware©), mood stabilizer
+4
+Be
+Beryllium
+1287
+2469
+9,01
+lightweight metal
+non-sparking copper alloy tools, aerospace, X-ray windows, beryl gems: emeralds and aquamarines
+5
+B
+Boron
+2076
+3927
+10,81
+hard black solid
+borax soap, fertilizer, stiff fibers, sports equipment (golf clubs, tennis rackets, skis), heat-resistant borosilicate glass (Pyrex©), semiconductors
+6
+C
+Carbon
+3527
+4027
+12,01
+hard diamond, soft graphite
+basis of life's organic molecules, animals, plants, CO2, wood, paper, cloth, plastic, coal, oil
+7
+N
+Nitrogen
+-210,00
+-195,795
+14,01
+colorless gas
+78% of air, organic molecules, protein, muscles, DNA, ammonia, fertilizer, explosives (TNT), refrigerants
+8
+O
+Oxygen
+-218,79
+-182,962
+16,00
+colorless gas
+21% of air, H2O, 65% of the human body, organic molecules, blood, breathing, fire, half of Earth's crust, minerals, oxides
+9
+F
+Flourine
+-219,67
+-188,11
+19,00
+yellowish poison gas, most reactive element
+glowing fluorite, toothpaste, nonstick cookware (Teflon©), CFC refrigerants (Freon©)
+10
+Ne
+Neon
+-248,59
+-246,046
+20,18
+inert gas
+orange-red neon tubes for advertising signs, lasers, supercold refrigerant
+11
+Na
+Sodium
+97,794
+882,940
+22,99
+soft metal, reactive
+salt (NaCl), nerves, baking soda, antacids, lye, soap, soda ash, glass, papermaking, street lamps
+12
+Mg
+Magnesium
+650
+1090
+24,31
+lightweight metal
+chlorophyll in green plants, talc, basalt, aluminum alloys, cars, planes, bikes, flares, sparklers, antacids
+13
+Al
+Aluminum
+660,32
+2470
+26,98
+lightweight non-corroding metal
+common metal, kitcheware, cans, foil, machinery, cars, planes, bikes, feldspar, granite, clay, ceramics, corundum, gems
+14
+Si
+Silicon
+1414
+3265
+28,09
+hard metalloid
+quartz, granite, sand, soil, clay, ceramics, glass, algae, diatoms, semiconductors, computer chips, silicone rubber
+15
+P
+Phosphorus
+44,15
+277
+30,97
+glowing white waxy solid (also red and black forms)
+bones, DNA, energy-storing phosphates (ATP), fertilizer, acids, detergents, matches
+16
+S
+Sulfur
+95,3
+444,6
+32,07
+brittle yellow solid
+skin, hair, eggs, onions, garlic, skunks, hot springs, volcanos, gypsum, rubber, acids, papermaking
+17
+Cl
+Chlorine
+-101,5
+-34,04
+35,45
+greenish poison gas
+salt (NaCl), bleach, stomach acid, disinfectant, drinking water, swimming pools, PVC plastic pipes and bottles
+18
+Ar
+Argon
+-189,34
+-185,848
+39,95
+inert gas
+1% of air, most abundant inert gas on Earth, light bulbs, "neon" tubes, lasers, welding gas
+19
+K
+Potassium
+63,5
+759
+39,10
+soft metal, reactive
+salts, nerves, nutrient in fruits and vegetables, soap, fertilizer, potash, matches, gunpowder
+20
+Ca
+Calcium
+842
+1484
+40,08
+soft metal
+bones, teeth, milk, leaves, vegetables, shells, coral, limestone, chalk, gypsum, plaster, mortar, cement, marble, antacids
+21
+Sc
+Scandium
+1541
+2836
+44,96
+soft lightweight metal
+aluminum alloys, racing bikes, stadium lamps, furnace bricks, aquamarines
+22
+Ti
+Titanium
+1668
+3287
+47,88
+strongest lightweight metal, heat-resistant
+aerospace, racing bikes, artificial joints, white paint, blue sapphires
+23
+V
+Vanadium
+1910
+3407
+50,94
+hard metal
+hard strong resilient steel, structures, vehicles, springs, driveshafts, tools, aerospace, violet sapphires
+24
+Cr
+Chromium
+1907
+2482
+52,00
+hard shiny metal
+stainless steel (Fe-Cr-Ni), kitchenware, nichrome heaters, car trim, paints, recording tape, emeralds and rubies
+25
+Mn
+Manganese
+1246
+2061
+54,94
+hard metal
+hard tough steel, earthmovers, rock crushers, rails, plows, axes, batteries, fertilizer, amethysts
+26
+Fe
+Iron
+1538
+2861
+55,85
+medium-hard metal, magnetic
+steel alloys are mostly iron, structures, vehicles, magnets, Earth's core, red rocks, blood
+27
+Co
+Cobalt
+1495
+2927
+58,93
+hard metal, magnetic
+hard strong steel, cutting tools, turbines, magnets (Al-Ni-Co), blue glass and ceramics, vitamin B-12
+28
+Ni
+Nickel
+1455
+2730
+58,69
+medium-hard metal, magnetic
+stainless steel (Fe-Cr-Ni), kitchenware, nichrome heaters, coins, nicad batteries, Earth's core
+29
+Cu
+Copper
+2730
+2562
+63,55
+colored metal, conducts heat and electricity well
+wires, cookware, brass (Cu-Zn), bronze (Cu-Sn), coins, pipes, blue crab blood
+30
+Zn
+Zinc
+419,53
+907
+65,39
+non-corroding metal
+galvanized steel, brass (Cu-Zn), batteries, white paint, phosphors in TVs and lamps, fertilizer
+31
+Ga
+Gallium
+29,7646
+2400
+69,72
+soft metal, melts on a hot day
+semiconductors, light-emitting diodes (LEDs) (GaAs), signal lights, tiny lasers
+32
+Ge
+Germanium
+938,25
+2833
+72,61
+brittle metalloid
+semiconductors, transistors, rectifiers, diodes, photocells, lenses, infrared windows
+33
+As
+Arsenic
+817
+614
+74,92
+brittle metalloid
+poisons, semiconductors, light-emitting diodes (LEDs) (GaAs), signal lights, tiny lasers
+34
+Se
+Selenium
+221
+685
+78,96
+brittle gray solid
+semiconductors, photocopiers, laser printers, photocells, red glass, dandruff shampoo, rubber
+35
+Br
+Bromine
+-7,3
+58,8
+79,90
+dark red liquid
+disinfectant, pools and spas, photo film, flame retardant, leaded gas, sedatives
+36
+Kr
+Krypton
+-157,37
+-153,415
+83,80
+inert gas
+high-intensity lamps, headlights, flashlights, lanterns, "neon" tubes, lasers
+37
+Rb
+Rubidium
+39,30
+688
+85,47
+soft metal, reactive
+atomic clocks, global navigation (GPS), vacuum tube scavenger
+38
+Sr
+Strontium
+777
+1382
+87,62
+soft metal
+red fireworks, flares, phosphors, nuclear batteries, medical diagnostic tracer, nuclear fallout
+39
+Y
+Yttrium
+1526
+2930
+88,91
+soft metal
+phosphors in color TVs, lasers (YAG, YLF), furnace bricks, high-temperature superconductors
+40
+Zr
+Zirconium
+1855
+4377
+91,22
+non-corroding neutron-resistant metal
+chemical pipelines, nuclear reactors, furnace bricks, abrasives, zircon gems
+41
+Nb
+Niobium
+2477
+4744
+92,91
+high-melting-point non-corroding metal
+chemical pipelines, superconductors, magnetic levitation trains, MRI magnets
+42
+Mo
+Molybdenum
+2623
+4639
+95,94
+high-melting-point metal
+hard steel, cutting tools, drill bits, armor plate, gun barrels, fertilizer
+43
+Tc
+Technetium
+2157
+4265
+98,00
+radioactive, long-lived
+first human-made element, only traces on Earth but found in stars, medical diagnostic tracer
+44
+Ru
+Ruthenium
+2334
+4150
+101,07
+non-corroding hard metal
+electric contacts, leaf switches, pen tips, catalyst, hydrogen production
+45
+Rh
+Rhodium
+1964
+3695
+102,91
+non-corroding hard shiny metal
+labware, reflectors, electric contacts, thermocouples, catalyst, pollution control
+46
+Pd
+Palladium
+1554,9
+2963
+106,42
+non-corroding hard metal, absorbs hydrogen
+labware, electric contacts, dentistry, catalyst, pollution control
+47
+Ag
+Silver
+961,78
+2210
+107,87
+soft shiny metal, conducts electricity best of all elements
+jewelry, silverware, coins, dentistry, photo film
+48
+Cd
+Cadmium
+321,07
+767
+112,41
+non-corroding soft metal, toxic
+electroplated steel, nicad batteries, red and yellow paints, fire sprinklers
+49
+In
+Indium
+156,60
+2072
+114,82
+soft metal
+solders, glass seals, glass coatings, liquid crystal displays (LCD), semiconductors, diodes, photocells
+50
+Sn
+Tin
+231,93
+2602
+118,71
+non-corroding soft metal
+solders, plated food cans, bronze (Cu-Sn), pewter cups, glassmaking, fire sprinklers
+51
+Sb
+Antimony
+630,63
+1635
+121,76
+brittle metalloid
+solders, lead hardener, batteries, bullet, semiconductors, photocells, matches, flame retardant
+52
+Te
+Tellurium
+449,51
+988
+127,60
+brittle metalloid
+alloys, semiconductors, photocopiers, computer disk, thermo-electric coolers and generators
+53
+I
+Iodine
+113,7
+184,3
+126,90
+violet-black solid
+disinfectant for wounds and drinking water, added to salt to prevent thyroid disease, photo film
+54
+Xe
+Xenon
+-111,75
+-108,099
+131,29
+inert gas
+high-intensity lamps, headlights, stadium lamps, projectors, strobes, lasers, spacecraft ion engines
+55
+Cs
+Cesium
+28,5
+671
+132,91
+soft metal, melts on a hot day, reactive, largest stable atoms
+atomic clocks, global navigation (GPS), vacuum tube scavenger
+56
+Ba
+Barium
+727
+1637
+137,33
+soft metal, absorbs X-rays
+stomach X-ray contrast enhancer, green fireworks, whitener and filler for paper
+57
+La
+Lanthanum
+920
+3464
+138,91
+soft metal
+optical glass, telescope eyepieces, camera lenses, lighter flints, arc lamps
+58
+Ce
+Cerium
+795
+3443
+140,12
+soft metal
+most abundant rare earth metal, lighter flints, arc lamps, gas lamp mantles, self-cleaning ovens, glass polishing
+59
+Pr
+Praseodymium
+935
+3130
+140,91
+soft metal
+torchworkers' didymium eyeglasses, lighter flints, arc lamps, magnets, yellow glass
+60
+Nd
+Neodymium
+1024
+3074
+144,24
+soft metal
+strong magnets (Nd-Fe-B), electric motors, speakers and headphones, lasers, lighter flints
+61
+Pm
+Promethium
+1042
+3000
+145,00
+radioactive, long-lived
+human-made, small traces in nature, luminous dials, sheet thickness gauges
+62
+Sm
+Samarium
+1072
+1900
+150,36
+soft metal
+magnets (Sm-Co), electric motors, speakers and headphones, infrared sensors, infrared-absorbing glass
+63
+Eu
+Europium
+826
+1529
+151,97
+soft metal
+phosphors in color TVs and trichromatic fluorescent lamps, luminous paint, lasers
+64
+Gd
+Gadolinium
+1312
+3000
+157,25
+soft metal, best neutron absorber, magnetic
+magnetic resonance imaging (MRI) contrast enhancer, phosphors, neutron radiography
+65
+Tb
+Terbium
+1356
+3123
+158,93
+soft metal
+phosphors in color TVs and trichromatic fluorescent lamps, computer disks, magnetostrictive "smart" materials (Fe-Dy-Tb) (Terfenol-D©)
+66
+Dy
+Dysprosium
+1407
+2567
+162,50
+soft metal
+nuclear control rods, MRI phosphors, computer disks, magnetostrictive "smart" materials (Fe-Dy-Tb) (Terfenol-D©)
+67
+Ho
+Holmium
+1461
+2600
+164,93
+soft metal
+infrared lasers, laser surgery, eye-safe laser rangefinders, computer disks, yellow glass filters
+68
+Er
+Erbium
+1529
+2868
+167,26
+soft metal
+fiber optic signal amplifiers, infrared lasers, laser surgery, pink glass, sunglasses, vanadium alloys
+69
+Tm
+Thulium
+1545
+1950
+168,93
+soft metal
+rarest stable rare earth metal, infrared lasers, laser surgery, phosphors
+70
+Yb
+Ytterbium
+824
+1430
+173,04
+soft metal
+fiber optic signal amplifiers, infrared fiber lasers, stainless steel alloys
+71
+Lu
+Lutetium
+1652
+3402
+174,97
+soft metal, densest and hardest rare earth metal
+cancer-fighting photodynamic (light-activated) medicine
+72
+Hf
+Hafnium
+2233
+4603
+178,49
+non-corroding metal, absorbs neutrons
+nuclear reactor control rods in submarines, plasma torch electrodes
+73
+Ta
+Tantalum
+3017
+5458
+180,95
+high-melting-point non-corroding metal
+labware, surgical tools, artificial joints, capacitors, mobile phones
+74
+W
+Wolfram
+3422
+5930
+183,85
+highest-melting-point metal, dense
+filaments in lamps and TVs, cutting tools, abrasives, thermocouples
+75
+Re
+Rhenium
+3186
+5596
+186,21
+high-melting-point dense metal
+rocket engines, heater coils, laboratory filaments, electric contacts, thermocouples, catalyst
+76
+Os
+Osmium
+3033
+5012
+190,20
+non-corroding high-melting-point hard metal, densest element (same as Ir)
+electric contacts, pen tips, needles, fingerprint powder
+77
+Ir
+Iridium
+2446
+4130
+192,22
+non-corroding hard metal, densest element (same as Os)
+labware, spark plugs, pen tips, needles
+78
+Pt
+Platinum
+1768,3
+3825
+195,08
+non-corroding dense metal
+labware, spark plugs, catalyst, pollution control, petroleum cracking, processing fats
+79
+Au
+Gold
+1064,18
+2970
+196,97
+most malleable element, dense non-tarnishing colored metal
+jewelry, coins, ultra-thin gold leaf, electric contacts
+80
+Hg
+Mercury
+-38,83
+356,73
+200,59
+liquid metal, toxic
+thermometers, barometers, thermostats, street lamps, fluorescent lamps, dentistry
+81
+Tl
+Thallium
+304
+1473
+204,38
+soft metal, toxic
+low-melting-point mercury alloys, low-temperature thermometers, undersea lamps, photocells
+82
+Pb
+Lead
+327,46
+1749
+207,20
+dense, soft, non-corroding metal, toxic
+weights, solders, batteries, bullets, crystal glass, old plumbing, radiation shield
+83
+Bi
+Bismuth
+271,5
+1564
+208,98
+low melting point, brittle metal
+solders, fuses, fire sprinklers (plugs melt when hot), cosmetics pigment
+84
+Po
+Polonium
+254
+962
+209,00
+radioactive, long-lived
+first radioactive element found, small traces in nature, anti-static brushes, tobacco
+85
+At
+Astatine
+302
+337
+210,00
+radioactive, short-lived
+small traces in nature, cancer medicine
+86
+Rn
+Radon
+-71
+-61,7
+222,00
+radioactive gas, short-lived
+environmental hazard, surgical implants for cancer treatment
+87
+Fr
+Francium
+27
+677
+223,00
+radioactive, short-lived, atoms larger than cesium
+small traces in nature, studied in laser atom traps
+88
+Ra
+Radium
+700
+1737
+226,03
+radioactive, long-lived
+luminous watches (now banned), medical radon production, radiography, radwaste
+89
+Ac
+Actinium
+1050
+3198
+227,03
+radioactive, long-lived
+small traces in nature, cancer medicine, neutron source, radwaste
+90
+Th
+Thorium
+1842
+4788
+232,04
+radioactive, long-lived
+most abundant radioactive element, nuclear reactor fuel, gas lamp mantles, tungsten filaments, radwaste
+91
+Pa
+Protactinium
+1568
+4027
+231,04
+radioactive, long-lived
+small traces in nature, no uses, radwaste
+92
+U
+Uranium
+1132,2
+4131
+238,03
+radioactive, long-lived, dense
+nuclear reactor fuel, nuclear weapons, counterweights, armor-piercing bullets
+93
+Np
+Neptunium
+644
+4000
+237,05
+radioactive, long-lived
+small traces in nature, neutron detectors, dosimeters, possibly nuclear weapons, radwaste
+94
+Pu
+Plutonium
+639,4
+3228
+244,00
+radioactive, long-lived
+small traces in nature, nuclear reactor fuel, spacecraft power, nuclear weapons
+95
+Am
+Americium
+1176
+2607
+243,00
+radioactive, long-lived
+never found in nature, smoke detectors, sheet thickness gauges, radwaste
+96
+Cm
+Curium
+2607
+3110
+247,00
+radioactive, long-lived
+never found in nature, scientific instruments, mineral analyzers, radwaste
+97
+Bk
+Berkelium
+986
+2627
+247,00
+radioactive, long-lived
+never found in nature, no uses, radwaste
+98
+Cf
+Californium
+900
+1470
+251,00
+radioactive, long-lived
+never found in nature, scientific instruments, mineral analyzers, radwaste
+99
+Es
+Einsteinium
+860
+996
+252,00
+radioactive, short-lived
+never found in nature, no uses
+100
+Fm
+Fermium
+1527
+999999
+257,00
+radioactive, short-lived
+never found in nature, no uses
+101
+Md
+Mendelevium
+827
+999999
+258,00
+radioactive, short-lived
+never found in nature, no uses
+102
+No
+Nobelium
+827
+999999
+259,00
+radioactive, short-lived
+never found in nature, no uses
+103
+Lr
+Lawrencium
+1627
+999999
+266,00
+radioactive, short-lived
+never found in nature, no uses
+104
+Rf
+Rutherfordium
+2100
+9900
+267,00
+radioactive, short-lived
+never found in nature, no uses
+105
+Db
+Dubnium
+999999
+999999
+268,00
+radioactive, short-lived
+never found in nature, no uses
+106
+Sg
+Seaborgium
+999999
+999999
+269,00
+radioactive, short-lived
+never found in nature, no uses
+107
+Bh
+Bohrium
+999999
+999999
+270,00
+radioactive, short-lived
+never found in nature, no uses
+108
+Hs
+Hassium
+999999
+999999
+277,00
+radioactive, short-lived
+never found in nature, no uses
+109
+Mt
+Meitnerium
+999999
+999999
+278,00
+radioactive, short-lived
+never found in nature, no uses
+110
+Ds
+Darmstadtium
+999999
+999999
+281,00
+radioactive, short-lived
+never found in nature, no uses
+111
+Rg
+Roentgenium
+999999
+999999
+282,00
+radioactive, short-lived
+never found in nature, no uses
+112
+Cn
+Copernicium
+999999
+999999
+285,00
+radioactive, short-lived
+never found in nature, no uses
+113
+Nh
+Nihonium
+999999
+999999
+286,00
+radioactive, short-lived
+never found in nature, no uses
+114
+Fl
+Flerovium
+999999
+999999
+289,00
+radioactive, short-lived
+never found in nature, no uses
+115
+Mc
+Moscovium
+999999
+999999
+290,00
+radioactive, short-lived
+never found in nature, no uses
+116
+Lv
+Livermorium
+999999
+999999
+293,00
+radioactive, short-lived
+never found in nature, no uses
+117
+Ts
+Tennessine
+999999
+999999
+294,00
+radioactive, short-lived
+never found in nature, no uses
+118
+Og
+Oganesson
+999999
+999999
+294,01
+radioactive, short-lived
+never found in nature, no uses, heaviest element yet

@@ -1,0 +1,944 @@
+﻿1
+H
+Vodik
+-259,16
+-252,879
+1,008
+eksplozivni plin, najlakši element
+90% atoma u svemiru, suncu i zvijezdama, H2O, životne organske molekule
+2
+On
+helijum
+-273,15
+-268,928
+4,00
+inertni plin, drugi najlakši element
+nuklearna fuzija na suncu i zvijezdama, baloni, laseri, superkrstarena rashladna tekućina
+3
+li
+litij
+180,50
+1330
+6,94
+najlakši metal, mekan, reaktivan
+lagane aluminijske legure, baterije, keramičke posude za kuhanje otporne na udarce (Corningware ©), stabilizator raspoloženja
+4
+Biti
+Berilijum
+1287
+2469
+9,01
+lagani metal
+alati od bakrenih legura, zračni prostor, prozori sa rendgenskim zrakama, berilni dragulji: smaragdni i akvamarinski
+5
+B
+Bor
+2076
+3927
+10,81
+tvrda crna krutina
+(golf klubovi, teniski reketi, skije), borosilikatno staklo otporno na toplinu (Pyrex ©), poluvodiči
+6
+C
+ugljen
+3527
+4027
+12,01
+tvrdi dijamant, mekan grafit
+osnove životnih organskih molekula, životinja, biljaka, CO2, drva, papira, tkanine, plastike, ugljena, ulja
+7
+N
+Dušik
+-210,00
+-195,795
+14,01
+bezbojnog plina
+78% zraka, organskih molekula, proteina, mišića, DNA, amonijaka, gnojiva, eksploziva (TNT), rashladnih sredstava
+8
+O
+Kisik
+-218,79
+-182,962
+16,00
+bezbojnog plina
+21% zraka, H20, 65% ljudskog tijela, organske molekule, krv, disanje, požar, polovica Zemljine kore, minerala, oksida
+9
+F
+Flourine
+-219,67
+-188,11
+19,00
+žućkasti otrovni plin, većina reaktivni element
+(Teflon ©), CFC rashladna sredstva (Freon ©)
+10
+Ne
+Neon
+-248,59
+-246,046
+20,18
+inertni plin
+narančasto-crvene neonske cijevi za reklamne znakove, lasere, rashladnu tekućinu
+11
+na
+Natrij
+97,794
+882,940
+22,99
+mekani metal, reaktivni
+sol (NaCl), živci, soda za pečenje, antacidi, lososa, sapuna, soda pepela, stakla, papira, ulične svjetiljke
+12
+mg
+Magnezij
+650
+1090
+24,31
+lagani metal
+klorofil u zelenim biljkama, talku, bazaltu, aluminijskim legurama, automobilima, zrakoplovima, biciklima, bakljama, sjajnim sredstvima, antacidima
+13
+al
+aluminijum
+660,32
+2470
+26,98
+lagani nehrđajući metal
+zajednički metal, kitcheware, limenke, folije, strojevi, automobili, avioni, bicikli, feldspat, granit, glina, keramika, korund, dragulja
+14
+Si
+Silicij
+1414
+3265
+28,09
+tvrdi metaloid
+kvarc, granit, pijesak, tlo, glina, keramika, staklo, alge, diatome, poluvodiči, računalni čipovi, silikonska guma
+15
+P
+Fosfor
+44,15
+277
+30,97
+sjajna bijela voštana krutina (crvene i crne boje)
+kosti, DNA, fosfati za pohranu energije (ATP), gnojivo, kiseline, deterdženti, odgovara
+16
+S
+Sumpor
+95,3
+444,6
+32,07
+kruto žuta krutina
+kožu, kosu, jaja, luk, češnjak, skunks, vruća vrela, volcanos, gips, gumu, kiseline, papermaking
+17
+cl
+Klor
+-101,5
+-34,04
+35,45
+zelenkasto otrovni plin
+sol (NaCl), bjelilo, želudac, dezinficijens, voda za piće, bazeni, PVC plastične cijevi i boce
+18
+ar
+Argon
+-189,34
+-185,848
+39,95
+inertni plin
+1% zraka, najopsežniji inertni plin na Zemlji, žarulje, neonske cijevi, laseri, plin za zavarivanje
+19
+K
+Kalij
+63,5
+759
+39,10
+mekani metal, reaktivni
+soli, živci, hranjivih tvari u voću i povrću, sapunu, gnojivu, kalijevu, šibicama, barut
+20
+Ca
+kalcijum
+842
+1484
+40,08
+mekog metala
+kosti, zubi, mlijeko, lišće, povrće, školjke, koralji, vapnenci, krede, gips, žbuka, žbuka, cement, mramor, antacidi
+21
+Sc
+skandijum
+1541
+2836
+44,96
+mekih lakih metala
+aluminijskih legura, trkaćih bicikala, svjetala stadiona, peći, akvamarija
+22
+Ti
+titanijum
+1668
+3287
+47,88
+najjači lagani metal, toplinski otporan
+zrakoplovne, trkaće bicikle, umjetne zglobove, bijelu boju, plave safire
+23
+V
+vanadijum
+1910
+3407
+50,94
+tvrdi metal
+tvrdi tvrdi elastični čelik, konstrukcije, vozila, opruge, pogonske osovine, alati, zrakoplovstvo, violetski safiri
+24
+Cr
+Krom
+1907
+2482
+52,00
+tvrdi sjajni metal
+nehrđajući čelik (Fe-Cr-Ni), posuđe, grijači nikla, ukrasi automobila, boje, trake za snimanje, smaragde i rubine
+25
+Mn
+Mangan
+1246
+2061
+54,94
+tvrdi metal
+tvrdi čvrsti čelik, zemljani dijelovi, stijenske drobilice, tračnice, plugovi, sjekire, baterije, gnojiva, ametisti
+26
+fe
+Željezo
+1538
+2861
+55,85
+srednji tvrdi metal, magnetski
+čelične legure su uglavnom željezo, strukture, vozila, magneti, Zemljina jezgra, crvene stijene, krv
+27
+ko
+Kobalt
+1495
+2927
+58,93
+tvrdi metal, magnetski
+tvrdi čelik, alati za rezanje, turbine, magneti (Al-Ni-Co), plavo staklo i keramika, vitamin B-12
+28
+ni
+nikl
+1455
+2730
+58,69
+srednji tvrdi metal, magnetski
+od nehrđajućeg čelika (Fe-Cr-Ni), posuđe, grijači nikla, kovanice, nikad baterije, zemaljska jezgra
+29
+Cu
+Bakar
+2730
+2562
+63,55
+obojenog metala, dobro provodi toplinu i struju
+žice, posuđe, mesing (Cu-Zn), bronca (Cu-Sn), kovanice, cijevi, plava rakovica
+30
+Zn
+Cinkov
+419,53
+907
+65,39
+nehrđajući metal
+pocinčanog čelika, mesinga (Cu-Zn), baterija, bijele boje, fosforne tvari i svjetiljke, gnojiva
+31
+ga
+galijum
+29,7646
+2400
+69,72
+mekani metal, topi na vrućem danu
+poluvodiči, svjetleće diode (LED) (GaAs), signalna svjetla, sićušni laseri
+32
+ge
+germanijum
+938,25
+2833
+72,61
+krhki metaloid
+poluvodiči, tranzistori, ispravljači, diode, fotoceli, leće, infracrveni prozori
+33
+Kao
+Arsen
+817
+614
+74,92
+krhki metaloid
+otrovi, poluvodiči, svjetleće diode (LED) (GaAs), signalna svjetla, sićušni laseri
+34
+se
+Selen
+221
+685
+78,96
+krhka siva krutina
+poluvodiči, fotokopirni uređaji, laserski pisači, fotoceli, crveni staklo, šampon za perut, guma
+35
+br
+Brom
+-7,3
+58,8
+79,90
+tamno crvena tekućina
+dezinficijensi, bazeni i lječilišta, foto film, retardant plina, olovni plin, sedativi
+36
+Kr
+Kripton
+-157,37
+-153,415
+83,80
+inertni plin
+svjetiljke visokog intenziteta, prednja svjetla, svjetiljke, svjetiljke, neonske cijevi, laseri
+37
+Rb
+rubidijum
+39,30
+688
+85,47
+mekani metal, reaktivni
+atomski satovi, globalna navigacija (GPS), sakupljač vakuumske cijevi
+38
+sr
+stroncijum
+777
+1382
+87,62
+mekog metala
+crvene vatromete, baklje, fosforne, nuklearne baterije, medicinski dijagnostički detektori, nuklearni padovi
+39
+Y
+itrijum
+1526
+2930
+88,91
+mekog metala
+fosfori u televizorima u boji, laseri (YAG, YLF), peći, visokotemperaturni supravodiči
+40
+Zr
+cirkonij
+1855
+4377
+91,22
+nehrđajući neutroni otporni metal
+kemijskih cjevovoda, nuklearnih reaktora, peći, abraziva, cirkonskih dragulja
+41
+nb
+niobijum
+2477
+4744
+92,91
+visoko-melting-point non-corroding metal
+kemijskih cjevovoda, supravodiča, vlakova magnetske levitacije, MRI magneta
+42
+Mo
+Molibden
+2623
+4639
+95,94
+metal visoke točke taljenja
+tvrdi čelik, alati za rezanje, bušilice, oklopna ploča, pištolji, gnojiva
+43
+Tc
+tehnecij
+2157
+4265
+98,00
+radioaktivno, dugoročno
+prvi ljudski stvoreni element, samo tragovi na Zemlji, ali pronađeni u zvijezdama, medicinski dijagnostički detektori
+44
+ru
+rutenijum
+2334
+4150
+101,07
+nehrđajući tvrdi metal
+električni kontakti, prekidači za list, olovke, katalizator, proizvodnja vodika
+45
+Rh
+rodijum
+1964
+3695
+102,91
+nehrđajući tvrdi sjajni metal
+laboratorija, reflektori, električni kontakti, termopar, katalizator, kontrola onečišćenja
+46
+Pd
+paladijum
+1554,9
+2963
+106,42
+nehrđajući tvrdi metal apsorbira vodik
+laboratorija, električni kontakti, stomatologija, katalizator, kontrola onečišćenja
+47
+Ag
+Srebro
+961,78
+2210
+107,87
+mekani sjajni metal, provodi električnu energiju najbolje od svih elemenata
+nakit, srebro, kovanice, stomatologija, foto film
+48
+CD
+kadmium
+321,07
+767
+112,41
+nehrđajući mekani metal, otrovni
+galvanski čelik, nicad baterije, crvene i žute boje, vatrogasni sprinkler
+49
+U
+indijum
+156,60
+2072
+114,82
+mekog metala
+lemljenici, staklene brtve, staklene prevlake, LCD zaslonima, poluvodičima, diodama, fotocelulima
+50
+S n
+Kositar
+231,93
+2602
+118,71
+nehrđajući mekani metal
+lemljenje, limenke za posuđe, bronce (Cu-Sn), šalice za kosu, proizvodnju stakla, vatrogasni sprinkler
+51
+sb
+Antimon
+630,63
+1635
+121,76
+krhki metaloid
+lemeri, olovni hardener, baterije, metak, poluvodiči, fotoceli, šibice, usporivači plamena
+52
+Te
+Telur
+449,51
+988
+127,60
+krhki metaloid
+legura, poluvodiči, fotokopirni uređaji, disk računala, termoelektrični hladnjaci i generatori
+53
+ja
+Jod
+113,7
+184,3
+126,90
+ljubičasta crna krutina
+dezinficijens za rane i vodu za piće, dodano u sol kako bi se spriječila bolest štitnjače, foto film
+54
+Xe
+Ksenon
+-111,75
+-108,099
+131,29
+inertni plin
+svjetiljke visokog intenziteta, prednja svjetla, svjetla na stadionu, projektori, svjetiljke, laseri, ionski motori svemirske letjelice
+55
+cs
+cezij
+28,5
+671
+132,91
+mekani metal, toplje na toplom danu, reaktivni, najveći stabilni atomi
+atomski satovi, globalna navigacija (GPS), sakupljač vakuumske cijevi
+56
+ba
+Barij
+727
+1637
+137,33
+mekog metala, upija rendgenske zrake
+pojačivač kontrasta X-zračenja želuca, zeleni vatromet, bjelilo i punilo za papir
+57
+La
+Lantan
+920
+3464
+138,91
+mekog metala
+optički staklo, okulisti teleskopa, leće fotoaparata, lakše svjetiljke, luk svjetiljke
+58
+Ce
+cerijum
+795
+3443
+140,12
+mekog metala
+najopsežnijih rijetkih zemaljskih metala, lakših svjetiljki, luk svjetiljki, plinskih svjetiljki, peći za samotavanje, poliranje stakla
+59
+Pr
+praseodimij
+935
+3130
+140,91
+mekog metala
+bakrene radionice didimijskih naočala, lakših svjetiljki, svjetiljki, magneta, žutog stakla
+60
+Sjeverna Dakota
+neodimij
+1024
+3074
+144,24
+mekog metala
+jaki magneti (Nd-Fe-B), električni motori, zvučnici i slušalice, laseri, lakši vosak
+61
+pm
+prometij
+1042
+3000
+145,00
+radioaktivno, dugoročno
+ljudski stvoreni, mali tragovi u prirodi, svjetleći biranja, mjerila debljine listova
+62
+Sm
+samarij
+1072
+1900
+150,36
+mekog metala
+magneti (Sm-Co), električni motori, zvučnici i slušalice, infracrveni senzori, stakla koja apsorbiraju infracrveno zračenje
+63
+eu
+evropijum
+826
+1529
+151,97
+mekog metala
+fosforne boje u televizorima u boji i trihromatskih fluorescentnih svjetiljki, svjetlećih boja, lasera
+64
+Gd
+gadolinijum
+1312
+3000
+157,25
+mekani metal, najbolji apsorber neutrona, magnetski
+magnetska rezonancijska (MRI) kontrastna pojačivač, fosfor, radiografija neutrona
+65
+Tb
+terbijum
+1356
+3123
+158,93
+mekog metala
+fosforne tvari u boji i trikromatne fluorescentne svjetiljke, računalni diskovi, magnetostriktivni "pametni" materijali (Fe-Dy-Tb) (Terfenol-D ©)
+66
+dy
+rijetki metali
+1407
+2567
+162,50
+mekog metala
+nuklearni kontrolni štapovi, MRI fosfori, diskovi računala, magnetostriktivni "pametni" materijali (Fe-Dy-Tb) (Terfenol-D ©)
+67
+Ho
+holmij
+1461
+2600
+164,93
+mekog metala
+infracrveni laseri, laserska kirurgija, očno laserski daljinomjeri, diskovi računala, žuti filteri stakla
+68
+Er
+erbijum
+1529
+2868
+167,26
+mekog metala
+svjetlovodni pojačala, infracrveni laseri, laserska kirurgija, ružičasta stakla, sunčane naočale, legure vanadija
+69
+Tim
+tulijum
+1545
+1950
+168,93
+mekog metala
+najrjeđih stabilnih rijetkih zemaljskih metala, infracrvenih lasera, laserske operacije, fosfora
+70
+Yb
+iterbijum
+824
+1430
+173,04
+mekog metala
+svjetlovodni pojačala, laseri s infracrvenim vlaknima, legure od nehrđajućeg čelika
+71
+Lu
+lutecij
+1652
+3402
+174,97
+mekog metala, najgušćeg i najtežeg rijetkog zemnog metala
+fotodinamički (svjetlosno aktiviran) lijek protiv karcinoma
+72
+HF
+hafnij
+2233
+4603
+178,49
+nehrđajući metal apsorbira neutrone
+kontrolne šipke nuklearnog reaktora u podmornicama, elektronske baklje u plazmi
+73
+tantal
+Tantal
+3017
+5458
+180,95
+visoko-melting-point non-corroding metal
+laboratorija, kirurških alata, umjetnih spojeva, kondenzatora, mobilnih telefona
+74
+W
+volfram
+3422
+5930
+183,85
+metala s najvišom točkom taljenja, gusta
+niti u svjetiljkama i televizorima, alati za rezanje, abrazivi, termoelementi
+75
+Ponovno
+renijum
+3186
+5596
+186,21
+visokotemperaturni gusti metal
+raketnih motora, grijačnih zavojnica, laboratorijskih niti, električnih kontakata, termopara, katalizatora
+76
+os
+osmijum
+3033
+5012
+190,20
+nehrđajući tvrdi metal visoke točke taljenja, najgušći element (isti kao Ir)
+električni kontakti, olovke, iglice, prašak u prašini
+77
+Ir
+iridijum
+2446
+4130
+192,22
+nehrđajući tvrdi metal, najgušći element (isto kao i Os)
+laboratorija, svjećice, savjeti za olovke, igle
+78
+platina
+Platina
+1768,3
+3825
+195,08
+nehrđajući gusti metal
+laboratorijska sredstva, svjećice, katalizator, kontrola onečišćenja, pukotina nafte, prerada masnoća
+79
+au
+Zlato
+1064,18
+2970
+196,97
+većina kalupljenog elementa, gusta neotkrivena obojenog metala
+nakit, kovanice, ultra tanki list zlata, električni kontakti
+80
+Hg
+Merkur
+-38,83
+356,73
+200,59
+tekući metal, toksičan
+termometri, barometri, termostati, ulične svjetiljke, fluorescentne svjetiljke, stomatologije
+81
+Tl
+talijum
+304
+1473
+204,38
+mekog metala, toksičnog
+niskotemperaturne legure žive, niskotemperaturni termometri, podvodne svjetiljke, fotoceli
+82
+Pb
+voditi
+327,46
+1749
+207,20
+gust, mekan, nehrđajući metal, toksičan
+utega, lemljenika, baterija, metaka, kristalnog stakla, starog vodika, štitnika zračenja
+83
+Dvo
+Bizmut
+271,5
+1564
+208,98
+niska točka topljenja, krhki metal
+lemljenici, osigurači, vatrogasni sprinkler (čepovi se rastopiti kada su vrući), kozmetički pigment
+84
+Po
+polonijum
+254
+962
+209,00
+radioaktivno, dugoročno
+pronađen prvi radioaktivni element, mali tragovi u prirodi, antistatičke četke, duhan
+85
+Na
+Astat
+302
+337
+210,00
+radioaktivno, kratkotrajno
+male tragove u prirodi, lijekovi protiv raka
+86
+rn
+Radon
+-71
+-61,7
+222,00
+radioaktivni plin, kratkotrajni
+opasnost za okoliš, kirurški implantati za liječenje raka
+87
+fr
+Francij
+27
+677
+223,00
+radioaktivni, kratkotrajni, atomi veći od cezija
+mali tragovi u prirodi, proučavani u laserskim atomskim zamkama
+88
+ra
+radijum
+700
+1737
+226,03
+radioaktivno, dugoročno
+svjetlosni satovi (sada zabranjeni), medicinski radon, radiografija, radwaste
+89
+Ac
+aktinium
+1050
+3198
+227,03
+radioaktivno, dugoročno
+mali tragovi u prirodi, lijekovi protiv raka, izvor neutrona, radni otpad
+90
+th
+torijum
+1842
+4788
+232,04
+radioaktivno, dugoročno
+najveći radioaktivni element, gorivo iz nuklearnog reaktora, pladnjevi svjetiljke za plamenike, volframske niti, radni otpad
+91
+Godišnje
+Protaktinijum
+1568
+4027
+231,04
+radioaktivno, dugoročno
+male tragove u prirodi, bez upotrebe, radni otpad
+92
+U
+uranijum
+1132,2
+4131
+238,03
+radioaktivni, dugoročni, gusti
+gorivo za nuklearni reaktor, nuklearno oružje, protuteže i metke koje okreću oklop
+93
+np
+neptunijum
+644
+4000
+237,05
+radioaktivno, dugoročno
+mali tragovi u prirodi, detektori neutrona, dozimetri, eventualno nuklearno oružje, radwaste
+94
+Pu
+plutonijum
+639,4
+3228
+244,00
+radioaktivno, dugoročno
+mali tragovi u prirodi, gorivo za nuklearni reaktor, moć svemirske letjelice, nuklearno oružje
+95
+sam
+americij
+1176
+2607
+243,00
+radioaktivno, dugoročno
+nikada nije pronađena u prirodi, detektori dima, mjerači debljine lima, radni otpad
+96
+cm
+kirium
+2607
+3110
+247,00
+radioaktivno, dugoročno
+nikada nije pronađena u prirodi, znanstveni instrumenti, analitički minerali, radni otpad
+97
+bk
+Berkelij
+986
+2627
+247,00
+radioaktivno, dugoročno
+nikada ne nalazimo u prirodi, bez upotrebe, radne reakcije
+98
+usp
+kalifornijum
+900
+1470
+251,00
+radioaktivno, dugoročno
+nikada nije pronađena u prirodi, znanstveni instrumenti, analitički minerali, radni otpad
+99
+Es
+Einsteinij
+860
+996
+252,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+100
+FM
+fermij
+1527
+999999
+257,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+101
+Doktor medicine
+mendelevij
+827
+999999
+258,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+102
+Ne
+nobelij
+827
+999999
+259,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+103
+LR
+lawrencij
+1627
+999999
+266,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+104
+Rf
+Rutherfordij
+2100
+9900
+267,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+105
+db
+Dubnij
+999999
+999999
+268,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+106
+sg
+Seaborgij
+999999
+999999
+269,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+107
+bh
+Bohrij
+999999
+999999
+270,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+108
+HS
+hasij
+999999
+999999
+277,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+109
+mt
+Meitnerij
+999999
+999999
+278,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+110
+dS
+Darmstadtij
+999999
+999999
+281,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+111
+Rg
+Roentgenij
+999999
+999999
+282,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+112
+Cn
+kopernicij
+999999
+999999
+285,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+113
+Nh
+Nihonium
+999999
+999999
+286,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+114
+Florida
+flerovij
+999999
+999999
+289,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+115
+Mc
+Moscovium
+999999
+999999
+290,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+116
+Lv
+livermorij
+999999
+999999
+293,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+117
+ts
+Tennessine
+999999
+999999
+294,00
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, nema koristi
+118
+og
+Oganesson
+999999
+999999
+294,01
+radioaktivno, kratkotrajno
+nikada nije pronađena u prirodi, bez upotrebe, najteži element još

@@ -1,0 +1,944 @@
+﻿1
+H
+Wasserstoff
+-259,16
+-252,879
+1,008
+explosives Gas, leichtestes Element
+90% der Atome im Universum, Sonne und Sterne, H2O, organische Moleküle des Lebens
+2
+He
+Helium
+-273,15
+-268,928
+4,00
+Inertgas, zweit-leichtestes Element
+Kernfusion in Sonne und Sternen, Ballons, Laser, superkaltes Kältemittel
+3
+Li
+Lithium
+180,50
+1330
+6,94
+leichtestes Metall, weich, reaktiv
+leichte Aluminiumlegierungen, Batterien, schlagfestes Keramikkochgeschirr (Corningware®), Stimmungsstabilisator
+4
+Be
+Beryllium
+1287
+2469
+9,01
+Leichtmetall
+Funkenfreie Kupferlegierungswerkzeuge, Luft- und Raumfahrt, Röntgenfenster, Beryll-Edelsteine: Smaragde und Aquamarine
+5
+B
+Bor
+2076
+3927
+10,81
+harter schwarzer Feststoff
+Boraxseife, Dünger, steife Fasern, Sportgeräte (Golfschläger, Tennisschläger, Skier), hitzebeständiges Borosilikatglas (Pyrex®), Halbleiter
+6
+C
+Kohlenstoff
+3527
+4027
+12,01
+harter Diamant, weicher Graphit
+Grundlage der organischen Moleküle, Tiere, Pflanzen, CO2, Holz, Papier, Tuch, Plastik, Kohle, Öl
+7
+N
+Stickstoff
+-210,00
+-195,795
+14,01
+farbloses Gas
+78% der Luft, organische Moleküle, Protein, Muskeln, DNA, Ammoniak, Dünger, Sprengstoffe (TNT), Kältemittel
+8
+O
+Sauerstoff
+-218,79
+-182,962
+16,00
+farbloses Gas
+21% Luft, H2O, 65% des menschlichen Körpers, organische Moleküle, Blut, Atmung, Feuer, die Hälfte der Erdkruste, Mineralien, Oxide
+9
+F
+Flourine
+-219,67
+-188,11
+19,00
+gelbliches Giftgas, am meisten reaktives Element
+leuchtendes Fluorit, Zahnpasta, Antihaft-Kochgeschirr (Teflon®), FCKW-Kältemittel (Freon®)
+10
+Ne
+Neon
+-248,59
+-246,046
+20,18
+Inertgas
+orange-rote Neonröhren für Werbeschilder, Laser, superkaltes Kältemittel
+11
+Na
+Natrium
+97,794
+882,940
+22,99
+weiches Metall, reaktiv
+Salz (NaCl), Nerven, Backpulver, Antazida, Lauge, Seife, Soda, Glas, Papierherstellung, Straßenlaternen
+12
+Mg
+Magnesium
+650
+1090
+24,31
+Leichtmetall
+Chlorophyll in grünen Pflanzen, Talk, Basalt, Aluminiumlegierungen, Autos, Flugzeuge, Fahrräder, Fackeln, Wunderkerzen, Antazida
+13
+Al
+Aluminium
+660,32
+2470
+26,98
+leichtes, korrosionsfreies Metall
+geläufiges Metall, kitchenware, Dosen, Folie, Maschinerie, Autos, Flugzeuge, Fahrräder, Feldspat, Granit, Lehm, Keramik, Korund, Edelsteine
+14
+Si
+Silizium
+1414
+3265
+28,09
+Hartmetalloid
+Quarz, Granit, Sand, Erde, Ton, Keramik, Glas, Algen, Diatomeen, Halbleiter, Computerchips, Silikonkautschuk
+15
+P
+Phosphor
+44,15
+277
+30,97
+leuchtender weißer wachsartiger Körper (auch rote und schwarze Formen)
+Knochen, DNA, energiespeichernde Phosphate (ATP), Düngemittel, Säuren, Reinigungsmittel, Streichhölzer
+16
+S
+Schwefel
+95,3
+444,6
+32,07
+spröder gelber Feststoff
+Haut, Haare, Eier, Zwiebeln, Knoblauch, Stinktiere, heiße Quellen, Vulkane, Gips, Gummi, Säuren, Papierherstellung
+17
+Cl
+Chlor
+-101,5
+-34,04
+35,45
+grünliches Giftgas
+Salz (NaCl), Bleichmittel, Magensäure, Desinfektionsmittel, Trinkwasser, Schwimmbecken, PVC-Kunststoffrohre und Flaschen
+18
+Ar
+Argon
+-189,34
+-185,848
+39,95
+Inertgas
+1% Luft, am häufigsten vorhandenes Inertgas auf der Erde, Glühbirnen, "Neon" -Röhren, Laser, Schweißgas
+19
+K
+Kalium
+63,5
+759
+39,10
+weiches Metall, reaktiv
+Salze, Nerven, Nährstoff in Obst und Gemüse, Seife, Dünger, Pottasche, Streichhölzer, Schießpulver
+20
+Ca
+Kalzium
+842
+1484
+40,08
+weiches Metall
+Knochen, Zähne, Milch, Blätter, Gemüse, Muscheln, Koralle, Kalkstein, Kreide, Gips, Gips, Mörtel, Zement, Marmor, Antazida
+21
+Sc
+Scandium
+1541
+2836
+44,96
+weiches Leichtmetall
+Aluminiumlegierungen, Rennräder, Stadionlampen, Ofenziegel, Aquamarine
+22
+Ti
+Titan
+1668
+3287
+47,88
+robustes Leichtmetall, hitzebeständig
+Raumfahrt, Rennräder, künstliche Gelenke, weiße Farbe, blaue Saphire
+23
+V
+Vanadium
+1910
+3407
+50,94
+hartes Metall
+harter, stark belastbarer Stahl, Strukturen, Fahrzeuge, Federn, Antriebswellen, Werkzeuge, Luft- und Raumfahrt, violette Saphire
+24
+Cr
+Chrom
+1907
+2482
+52,00
+hartes glänzendes Metall
+Edelstahl (Fe-Cr-Ni), Geschirr, Nichromheizer, Autoverkleidungen, Farben, Tonband, Smaragde und Rubine
+25
+Mn
+Mangan
+1246
+2061
+54,94
+hartes Metall
+Hartstahl, Erdbewegungsmaschinen, Steinbrecher, Schienen, Pflüge, Äxte, Batterien, Düngemittel, Amethyste
+26
+Fe
+Eisen
+1538
+2861
+55,85
+mittelhartes Metall, magnetisch
+Stahllegierungen sind meist Eisen, Strukturen, Fahrzeuge, Magnete, Erdkern, rote Felsen, Blut
+27
+Co
+Kobalt
+1495
+2927
+58,93
+Hartmetall, magnetisch
+Hartstahl, Schneidwerkzeuge, Turbinen, Magnete (Al-Ni-Co), blaues Glas und Keramik, Vitamin B-12
+28
+Ni
+Nickel
+1455
+2730
+58,69
+mittelhartes Metall, magnetisch
+Edelstahl (Fe-Cr-Ni), Geschirr, Nichromheizer, Münzen, NiCd-Batterien, Erdkern
+29
+Cu
+Kupfer
+2730
+2562
+63,55
+farbiges Metall, leitet Wärme und Strom gut
+Drähte, Kochgeschirr, Messing (Cu-Zn), Bronze (Cu-Sn), Münzen, Pfeifen, blaues Krebsblut
+30
+Zn
+Zink
+419,53
+907
+65,39
+nicht korrodierendes Metall
+galvanisierter Stahl, Messing (Cu-Zn), Batterien, weiße Farbe, Leuchtstoffe in Fernsehern und Lampen, Dünger
+31
+Ga
+Gallium
+29,7464
+2400
+69,72
+Weiches Metall, schmilzt an einem heißen Tag
+Halbleiter, Leuchtdioden (LEDs) (GaAs), Signalleuchten, winzige Laser
+32
+Ge
+Germanium
+938,25
+2833
+72,61
+sprödes Metalloid
+Halbleiter, Transistoren, Gleichrichter, Dioden, Fotozellen, Linsen, Infrarotfenster
+33
+Wie
+Arsen
+817
+614
+74,92
+sprödes Metalloid
+Gifte, Halbleiter, Leuchtdioden (LEDs) (GaAs), Signalleuchten, winzige Laser
+34
+Se
+Selen
+221
+685
+78,96
+spröder grauer Feststoff
+Halbleiter, Kopierer, Laserdrucker, Fotozellen, rotes Glas, Schuppenshampoo, Gummi
+35
+Br
+Brom
+-7,3
+58,8
+79,90
+dunkelrote Flüssigkeit
+Desinfektionsmittel, Pools und Spas, Fotofilm, Flammschutzmittel, Bleigas, Sedativa
+36
+Kr
+Krypton
+-157,37
+-153,415
+83,80
+Inertgas
+Hochintensitätslampen, Scheinwerfer, Taschenlampen, Laternen, "Neon" -Röhren, Laser
+37
+Rb
+Rubidium
+39,30
+688
+85,47
+weiches Metall, reaktiv
+Atomuhren, globale Navigation (GPS), Vakuumröhrchenfänger
+38
+Sr,
+Strontium
+777
+1382
+87,62
+weiches Metall
+rotes Feuerwerk, Fackeln, Phosphore, Nuklearbatterien, medizinischer diagnostischer Tracer, nuklearer Fallout
+39
+Y
+Yttrium
+1526
+2930
+88,91
+weiches Metall
+Leuchtstoffe in Farbfernsehern, Lasern (YAG, YLF), Ofenziegeln, Hochtemperatursupraleitern
+40
+Zr
+Zirkonium
+1855
+4377
+91,22
+nicht korrodierendes neutronenresistentes Metall
+chemische Pipelines, Kernreaktoren, Ofenziegel, Schleifmittel, Zirkonsteine
+41
+Nb
+Niob
+2477
+4744
+92,91
+nicht korrodierendes Metall mit hohem Schmelzpunkt
+Chemische Pipelines, Supraleiter, Magnetschwebebahnen, MRI-Magnete
+42
+Mo
+Molybdän
+2623
+4639
+95,94
+hochschmelzendes Metall
+Hartstahl, Schneidwerkzeuge, Bohrer, Panzerplatte, Gewehrläufe, Dünger
+43
+Tc
+Technetium
+2157
+4265
+98,00
+radioaktiv, langlebig
+erstes menschliches Element, nur Spuren auf der Erde, aber in Sternen gefunden, medizinischer diagnostischer Tracer
+44
+Ru
+Ruthenium
+2334
+4150
+101,07
+nicht korrodierendes Hartmetall
+elektrische Kontakte, Blattschalter, Stiftspitzen, Katalysator, Wasserstoffproduktion
+45
+Rh
+Rhodium
+1964
+3695
+102,91
+nicht korrodierendes hartes glänzendes Metall
+Labware, Reflektoren, elektrische Kontakte, Thermoelemente, Katalysator, Umweltschutz
+46
+Pd
+Palladium
+1554,9
+2963
+106,42
+nicht korrodierendes Hartmetall, absorbiert Wasserstoff
+Labware, elektrische Kontakte, Zahnmedizin, Katalysator, Umweltschutz
+47
+Ag
+Silber
+961,78
+2210
+107,87
+weiches glänzendes Metall, leitet Strom am besten aller Elemente
+Schmuck, Silberwaren, Münzen, Zahnmedizin, Fotofilm
+48
+CD
+Cadmium
+321,07
+767
+112,41
+nicht korrodierendes weiches Metall, giftig
+galvanisierter Stahl, Nicad-Batterien, rote und gelbe Farben, Sprinkler
+49
+Im
+Indium
+156,60
+2072
+114,82
+weiches Metall
+Lote, Glasdichtungen, Glasbeschichtungen, Flüssigkristallanzeigen (LCD), Halbleiter, Dioden, Photozellen
+50
+Sn
+Zinn
+231,93
+2602
+118,71
+nicht korrodierendes weiches Metall
+Lote, überzogene Konservendosen, Bronze (Cu-Sn), Zinnbecher, Glasherstellung, Sprinkler
+51
+Sb
+Antimon
+630,63
+1635
+121,76
+sprödes Metalloid
+Lote, Bleihärter, Batterien, Geschoss, Halbleiter, Fotozellen, Streichhölzer, Flammschutzmittel
+52
+Te
+Tellur
+449,51
+988
+127,60
+sprödes Metalloid
+Legierungen, Halbleiter, Fotokopierer, Computerplatten, thermoelektrische Kühler und Generatoren
+53
+ich
+Jod
+113,7
+184,3
+126,90
+violett-schwarzer Feststoff
+Desinfektionsmittel für Wunden und Trinkwasser, Salzzusatz zur Vorbeugung von Schilddrüsenerkrankungen, Fotofilm
+54
+Xe
+Xenon
+-111,75
+-108,099
+131,29
+Inertgas
+Hochintensitätslampen, Scheinwerfer, Stadionlampen, Projektoren, Stroboskope, Laser, Raumsondenmotoren
+55
+Cs
+Cäsium
+28,5
+671
+132,91
+weiches Metall, schmilzt an einem heißen Tag, reaktive, größte stabile Atome
+Atomuhren, globale Navigation (GPS), Vakuumröhrchenfänger
+56
+Ba
+Barium
+727
+1637
+137,33
+weiches Metall, absorbiert Röntgenstrahlen
+Magen-Röntgenkontrastverstärker, grünes Feuerwerk, Aufheller und Füller für Papier
+57
+La
+Lanthan
+920
+3464
+138,91
+weiches Metall
+optisches Glas, Teleskopokulare, Kameraobjektive, Feuersteinfeuersteine, Bogenlampen
+58
+Ce
+Cer
+795
+3443
+140,12
+weiches Metall
+am seltensten vorhandenes Seltenerdmetall, leichtere Feuersteine, Bogenlampen, Gaslampenmäntel, selbstreinigende Öfen, Glaspolieren
+59
+Pr
+Praseodym
+935
+3130
+140,91
+weiches Metall
+Didymium-Brillen von Fackelarbeitern, Feuersteinfeuersteine, Bogenlampen, Magnete, gelbes Glas
+60
+Nd
+Neodym
+1024
+3074
+144,24
+weiches Metall
+starke Magnete (Nd-Fe-B), Elektromotoren, Lautsprecher und Kopfhörer, Laser, leichtere Feuersteine
+61
+Pm
+Promethium
+1042
+3000
+145,00
+radioaktiv, langlebig
+vom Menschen hergestellte, kleine Spuren in der Natur, Leuchtzifferblätter, Blechdickenmessgeräte
+62
+Sm
+Samarium
+1072
+1900
+150,36
+weiches Metall
+Magnete (Sm-Co), Elektromotoren, Lautsprecher und Kopfhörer, Infrarotsensoren, Infrarot absorbierendes Glas
+63
+EU
+Europium
+826
+1529
+151,97
+weiches Metall
+Leuchtstoffe in Farbfernsehern und trichromatischen Leuchtstofflampen, Leuchtfarbe, Laser
+64
+G'tt
+Gadolinium
+1312
+3000
+157,25
+Weichmetall, bester Neutronenabsorber, magnetisch
+Magnetresonanztomographie (MRT), Kontrastverstärker, Leuchtstoffe, Neutronenradiographie
+65
+Tb
+Terbium
+1356
+3123
+158,93
+weiches Metall
+Leuchtstoffe in Farbfernsehern und trichromatischen Leuchtstofflampen, Computerscheiben, magnetostriktive "intelligente" Materialien (Fe-Dy-Tb) (Terfenol-DŠ)
+66
+Dy
+Dysprosium
+1407
+2567
+162,50
+weiches Metall
+nukleare Kontrollstäbe, MRI-Leuchtstoffe, Computerscheiben, magnetostriktive "intelligente" Materialien (Fe-Dy-Tb) (Terfenol-DŠ)
+67
+Ho
+Holmium
+1461
+2600
+164,93
+weiches Metall
+Infrarotlaser, Laserchirurgie, augensichere Laserentfernungsmesser, Computerscheiben, gelbe Glasfilter
+68
+Er
+Erbium
+1529
+2868
+167,26
+weiches Metall
+faseroptische Signalverstärker, Infrarot-Laser, Laser-Chirurgie, rosa Glas, Sonnenbrillen, Vanadium-Legierungen
+69
+Tm
+Thulium
+1545
+1950
+168,93
+weiches Metall
+seltenstes stabiles Seltenerdmetall, Infrarotlaser, Laserchirurgie, Leuchtstoffe
+70
+Yb
+Ytterbium
+824
+1430
+173,04
+weiches Metall
+faseroptische Signalverstärker, Infrarot-Faserlaser, Edelstahllegierungen
+71
+Lu
+Lutetium
+1652
+3402
+174,97
+weiches Metall, dichtestes und härteste Seltenerdmetall
+krebskämpfende photodynamische (lichtaktivierte) Medizin
+72
+Hf
+Hafnium
+2233
+4603
+178,49
+nicht korrodierendes Metall, absorbiert Neutronen
+Kontrollstäbe für Kernreaktoren in U-Booten, Plasmabrennerelektroden
+73
+Ta
+Tantal
+3017
+5458
+180,95
+nicht korrodierendes Metall mit hohem Schmelzpunkt
+Labware, chirurgische Werkzeuge, künstliche Gelenke, Kondensatoren, Mobiltelefone
+74
+W
+Wolfram
+3422
+5930
+183,85
+höchstschmelzendes Metall, dicht
+Filamente in Lampen und Fernsehgeräten, Schneidwerkzeuge, Schleifmittel, Thermoelemente
+75
+Re
+Rhenium
+3186
+5596
+186,21
+hochschmelzendes dichtes Metall
+Raketentriebwerke, Heizspulen, Laborfilamente, elektrische Kontakte, Thermoelemente, Katalysator
+76
+Os
+Osmium
+3033
+5012
+190,20
+nicht korrodierendes Hartmetall mit hohem Schmelzpunkt, dichtestes Element (wie Ir)
+elektrische Kontakte, Stiftspitzen, Nadeln, Fingerabdruckpulver
+77
+Ir
+Iridium
+2446
+4130
+192,22
+korrosionsfreies Hartmetall, dichtestes Element (wie Os)
+Labware, Zündkerzen, Stiftspitzen, Nadeln
+78
+Pt
+Platin
+1768,3
+3825
+195,08
+nicht korrodierendes dichtes Metall
+Labware, Zündkerzen, Katalysator, Umweltschutz, Petroleum Cracking, Verarbeitung Fette
+79
+Au
+Gold
+1064,18
+2970
+196,97
+am meisten verformbares Element, dichtes nicht anlaufendes farbiges Metall
+Schmuck, Münzen, ultradünnes Blattgold, elektrische Kontakte
+80
+Hg
+Quecksilber
+-38,83
+356,73
+200,59
+flüssiges Metall, giftig
+Thermometer, Barometer, Thermostate, Straßenlampen, Leuchtstofflampen, Zahnmedizin
+81
+Tl
+Thallium
+304
+1473
+204,38
+weiches Metall, giftig
+niedrigschmelzende Quecksilberlegierungen, Tieftemperaturthermometer, Unterwasserlampen, Fotozellen
+82
+Pb
+Führen
+327,46
+1749
+207,20
+dichtes, weiches, nicht korrodierendes Metall, giftig
+Gewichte, Lote, Batterien, Kugeln, Kristallglas, alte Rohrleitungen, Strahlungsschutz
+83
+Bi
+Wismut
+271,5
+1564
+208,98
+niedriger Schmelzpunkt, sprödes Metall
+Lote, Sicherungen, Sprinkler (Stecker schmelzen, wenn heiß), Kosmetikpigment
+84
+Po
+Polonium
+254
+962
+209,00
+radioaktiv, langlebig
+erstes radioaktives Element gefunden, kleine Spuren in der Natur, antistatische Bürsten, Tabak
+85
+Beim
+Astatin
+302
+337
+210,00
+radioaktiv, kurzlebig
+kleine Spuren in der Natur, Krebsmedizin
+86
+Rn
+Radon
+-71
+-61,7
+222,00
+radioaktives Gas, kurzlebig
+Umweltgefährdung, chirurgische Implantate für die Krebsbehandlung
+87
+Fr
+Francium
+27
+677
+223,00
+radioaktive, kurzlebige Atome größer als Cäsium
+kleine Spuren in der Natur, untersucht in Laserfallen
+88
+Ra
+Radium
+700
+1737
+226,03
+radioaktiv, langlebig
+Leuchtende Uhren (jetzt verboten), medizinische Radonproduktion, Radiographie, radioaktiver Abfall
+89
+Ac
+Aktinium
+1050
+3198
+227,03
+radioaktiv, langlebig
+kleine Spuren in der Natur, Krebsmedizin, Neutronenquelle, radioaktiver Abfall
+90
+Th
+Thorium
+1842
+4788
+232,04
+radioaktiv, langlebig
+am häufigsten vorkommendes radioaktives Element, Kernreaktorbrennstoff, Gaslampenmäntel, Wolframfilamente, radioaktiver Abfall
+91
+Pa
+Protactinium
+1568
+4027
+231,04
+radioaktiv, langlebig
+kleine Spuren in der Natur, keine Verwendung, Radabfälle
+92
+U
+Uran
+1132,2
+4131
+238,03
+radioaktiv, langlebig, dicht
+Kernreaktorbrennstoff, Atomwaffen, Gegengewichte, panzerbrechende Geschosse
+93
+Np
+Neptunium
+644
+4000
+237,05
+radioaktiv, langlebig
+kleine Spuren in der Natur, Neutronendetektoren, Dosimeter, möglicherweise Atomwaffen, radioaktiven Abfall
+94
+Pu
+Plutonium
+639,4
+3228
+244,00
+radioaktiv, langlebig
+kleine Spuren in der Natur, Kernreaktorbrennstoff, Raumfahrzeugmacht, Kernwaffen
+95
+Bin ich
+Americium
+1176
+2607
+243,00
+radioaktiv, langlebig
+nie in der Natur gefunden, Rauchmelder, Blechdickenmesser, Radabfälle
+96
+Cm
+Curium
+2607
+3110
+247,00
+radioaktiv, langlebig
+nie in der Natur gefunden, wissenschaftliche Instrumente, Mineralanalysatoren, radioaktiver Abfall
+97
+Bk
+Berkelium
+986
+2627
+247,00
+radioaktiv, langlebig
+nie in der Natur gefunden, keine Verwendung, Radabfälle
+98
+Vgl
+Californium
+900
+1470
+251,00
+radioaktiv, langlebig
+nie in der Natur gefunden, wissenschaftliche Instrumente, Mineralanalysatoren, radioaktiver Abfall
+99
+Es
+Einsteinium
+860
+996
+252,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+100
+Fm
+Fermium
+1527
+999999
+257,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+101
+Md
+Mendelevium
+827
+999999
+258,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+102
+Nein
+Nobelium
+827
+999999
+259,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+103
+Lr
+Lawrencium
+1627
+999999
+266,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+104
+Rf
+Rutherfordium
+2100
+9900
+267,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+105
+Db
+Dubnium
+999999
+999999
+268,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+106
+Sg
+Seaborgium
+999999
+999999
+269,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+107
+Bh
+Bohrium
+999999
+999999
+270,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+108
+Hs
+Hassium
+999999
+999999
+277,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+109
+Mt
+Meitnerium
+999999
+999999
+278,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+110
+Ds
+Darmstadtium
+999999
+999999
+281,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+111
+Rg
+Röntgenium
+999999
+999999
+282,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+112
+Cn
+Kopernikium
+999999
+999999
+285,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+113
+Nh
+Nihonium
+999999
+999999
+286,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+114
+Fl
+Flerovium
+999999
+999999
+289,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+115
+Mc
+Moskowien
+999999
+999999
+290,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+116
+Lv
+Livermorium
+999999
+999999
+293,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+117
+Ts
+Tennessine
+999999
+999999
+294,00
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung
+118
+Og
+Oganesson
+999999
+999999
+294,01
+radioaktiv, kurzlebig
+nie in der Natur gefunden, keine Verwendung, schwerstes Element noch nicht

@@ -1,0 +1,13 @@
+C:\Users\Petar Kaselj\source\repos\Periodni Sustav Elemenata\Periodni Sustav Elemenata\bin\Debug\Periodni Sustav Elemenata.exe.config
+C:\Users\Petar Kaselj\source\repos\Periodni Sustav Elemenata\Periodni Sustav Elemenata\bin\Debug\Periodni Sustav Elemenata.exe
+C:\Users\Petar Kaselj\source\repos\Periodni Sustav Elemenata\Periodni Sustav Elemenata\bin\Debug\Periodni Sustav Elemenata.pdb
+C:\Users\Petar Kaselj\source\repos\Periodni Sustav Elemenata\Periodni Sustav Elemenata\obj\Debug\Periodni_Sustav_Elemenata.Form1.resources
+C:\Users\Petar Kaselj\source\repos\Periodni Sustav Elemenata\Periodni Sustav Elemenata\obj\Debug\Periodni_Sustav_Elemenata.Properties.Resources.resources
+C:\Users\Petar Kaselj\source\repos\Periodni Sustav Elemenata\Periodni Sustav Elemenata\obj\Debug\Periodni Sustav Elemenata.csproj.GenerateResource.Cache
+C:\Users\Petar Kaselj\source\repos\Periodni Sustav Elemenata\Periodni Sustav Elemenata\obj\Debug\Periodni Sustav Elemenata.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kaselj\source\repos\Periodni Sustav Elemenata\Periodni Sustav Elemenata\obj\Debug\Periodni Sustav Elemenata.exe
+C:\Users\Petar Kaselj\source\repos\Periodni Sustav Elemenata\Periodni Sustav Elemenata\obj\Debug\Periodni Sustav Elemenata.pdb
+C:\Users\Petar Kaselj\source\repos\Periodni Sustav Elemenata\Periodni Sustav Elemenata\bin\Debug\StandardniBotun.dll
+C:\Users\Petar Kaselj\source\repos\Periodni Sustav Elemenata\Periodni Sustav Elemenata\bin\Debug\StandardniBotun.pdb
+C:\Users\Petar Kaselj\source\repos\Periodni Sustav Elemenata\Periodni Sustav Elemenata\obj\Debug\Periodni_Sustav_Elemenata.Detalji.resources
+C:\Users\Petar Kaselj\source\repos\Periodni Sustav Elemenata\Periodni Sustav Elemenata\obj\Debug\Periodni_Sustav_Elemenata.Postavke.resources
